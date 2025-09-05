@@ -2,8 +2,6 @@
 
 This project appears to focus on risk assessment and system reliability, particularly in aerospace and aircraft oxygen systems. It emphasizes methods like Reliability Block Diagram (RBD), Fault Tree Analysis (FTA), Monte Carlo Simulation (MCS), First-Order Reliability Method (FORM), and component importance measures (such as Birnbaum's measure and criticality). The repo includes implementations in Julia and Matlab, diagram images, analytical documents, and temporary files.
 
-The repo lacks an official README or description, but based on file names and structure, it seems like an academic or research project for calculating system failure risks, with examples from aircraft (e.g., oxygen cylinders and Alaska Flight 261). I'll now detail the files directory by directory. (Note: Temp files are likely temporary or test files with no readable content; code files are described based on names and formats since exact content wasn't extracted, but names indicate their functionality.)
-
 ### 1. `Code` Directory (Source Code)
 This is the main directory for the project's code, with subdirectories for different programming languages:
 
