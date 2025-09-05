@@ -77,8 +77,3 @@ These files cover theoretical analysis, data, and reports. PDFs are likely final
 
 ### 7. Root Files
 - `github.txt`: Text file, but no readable content (possibly empty or for testing).
-
-### Overall Summary
-- **Project Focus**: Risk assessment of aircraft safety systems (especially oxygen), with tools like RBD, FTA, MCS, and importance measures. Codes for numerical computations, images for visualization, documents for explanations and data.
-- **Suggestions**: Add a README with explanations, license, and code execution guide. If codes have dependencies (e.g., Julia libraries or Matlab toolboxes), mention them.
-- If you need more details on file contents (e.g., exact code or PDF text), I can try examining with other tools, but based on the current review, this description is complete. Let me know if you have questions!
